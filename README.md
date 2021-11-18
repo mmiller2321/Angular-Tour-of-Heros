@@ -15,9 +15,7 @@ Go to 'localhost:4200' and you will be redirected to 'localhost:4200/dashboard' 
 
 Next, Click one of your top heroes displayed on home page and you will be redirected to the Hero details page. Once on the heroes detail page the hero details will be displayed with the ability to update the hero name. Below a message of the hero service fetching the specific hero id # will be shown. You can then click the 'go back' button to go back to the heroes home page.
 
-![image](https://user-images.githubusercontent.com/40038829/142358190-b9104f3f-2299-4507-8d5b-59f0f72fe7b4.png)
-
-![image](https://user-images.githubusercontent.com/40038829/142357361-5730abfe-1a2b-4e02-aa03-4b4bfea272b5.png)
+![image](https://user-images.githubusercontent.com/40038829/142358284-9edaaa10-4f6c-4b23-8b09-d64635c075c7.png)
 
 When back on the heroes home page start typing into the Hero Search and type in a known super hero. Once you begin typing similar heroes including the entered letters will be displayed in a list format. Next, you can click on one of the heroes in the drop down list.
 
