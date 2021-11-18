@@ -8,6 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Example Screenshots
 
+
 Go to 'localhost:4200' and you will be redirected to 'localhost:4200/dashboard' which is the Tour of Heroes home page. 
 
 ![image](https://user-images.githubusercontent.com/40038829/142356909-26281b3a-0eeb-44f6-861f-00a993588161.png)
