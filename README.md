@@ -9,7 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Example Screenshots
 
 
-Go to 'localhost:4200' and you will be redirected to 'localhost:4200/dashboard' which is the Tour of Heroes home page. 
+Go to `localhost:4200` and you will be redirected to `localhost:4200/dashboard` which is the Tour of Heroes home page. 
 
 ![image](https://user-images.githubusercontent.com/40038829/142356909-26281b3a-0eeb-44f6-861f-00a993588161.png)
 
@@ -21,9 +21,14 @@ When back on the heroes home page start typing into the Hero Search and type in 
 
 ![image](https://user-images.githubusercontent.com/40038829/142357665-3c7bea2b-e6ee-4843-9caf-266dc75f98f7.png)
 
-When the hero is clicked the hero details page for that hero will be displayed. Then click 'go back' to go back to the home page.
+When the hero is clicked the hero details page for that hero will be displayed. Then click `go back` to go back to the home page.
 
 ![image](https://user-images.githubusercontent.com/40038829/142357860-179792d7-b586-4096-b598-6632a018f1c9.png)
+
+On the home page click `Heroes` below the "Tour of Heroes" title and a list of Heroes will be displayed with the ability to add a new hero. Under each hero you can click the `x` button to delete the hero from the data set. 
+
+![image](https://user-images.githubusercontent.com/40038829/142359196-af574dd3-f50a-41cd-a15c-702de6d9c5af.png)
+
 
 
 
