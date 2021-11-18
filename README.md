@@ -33,6 +33,8 @@ In the list click a hero to be redirected to the heroes details component page.
 
 ![image](https://user-images.githubusercontent.com/40038829/142359476-a8c2d9f7-2cf2-44e2-92e7-a00b3cc375c7.png)
 
+Then click the `go back` button to go back to the home page.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
