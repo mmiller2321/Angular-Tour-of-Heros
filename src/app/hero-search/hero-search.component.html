@@ -1,0 +1,16 @@
+<br/><br/>
+<div id="search-component" align="center">
+    <!-- The event binding to the textbox's input event calls the search() method. -->
+    <label for="search-box">Hero Search</label>
+    <input #searchBox id="search-box" (input)="search(searchBox.value)" />
+  
+    <!-- As the user types in the search box, an input event binding calls 
+         the component's search() method with the new search box value. -->
+    <ul class="search-result">
+      <li *ngFor="let hero of heroes$ | async" >
+        <a routerLink="/detail/{{hero.id}}">
+          {{hero.name}}
+        </a>
+      </li>
+    </ul>
+</div>

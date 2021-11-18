@@ -34,9 +34,17 @@ export class HeroDetailComponent implements OnInit {
       .subscribe(hero => this.hero = hero);
   }
 
-  // Method to go back to the previous page with a back button
+  // Method to go back to the previous page with a back button.
   goBack(): void {
     this.location.back();
+  }
+
+  // Method to save a hero to the remote server with a save button.
+  save(): void {
+    if (this.hero) {
+      this.heroService.updateHero(this.hero)
+        .subscribe(() => this.goBack());
+    }
   }
 
 }
