@@ -25,12 +25,13 @@ When the hero is clicked the hero details page for that hero will be displayed. 
 
 ![image](https://user-images.githubusercontent.com/40038829/142357860-179792d7-b586-4096-b598-6632a018f1c9.png)
 
-On the home page click `Heroes` below the "Tour of Heroes" title and a list of Heroes will be displayed with the ability to add a new hero. Under each hero you can click the `x` button to delete the hero from the data set. 
+On the home page click `Heroes` below the `Tour of Heroes` title and a list of Heroes will be displayed with the ability to add a new hero. Under each hero you can click the `x` button to delete the hero from the data set. 
 
 ![image](https://user-images.githubusercontent.com/40038829/142359196-af574dd3-f50a-41cd-a15c-702de6d9c5af.png)
 
+In the list click a hero to be redirected to the heroes details component page.
 
-
+![image](https://user-images.githubusercontent.com/40038829/142359476-a8c2d9f7-2cf2-44e2-92e7-a00b3cc375c7.png)
 
 ## Code scaffolding
 
