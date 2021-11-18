@@ -6,6 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Example Screenshots
+
+Go to 'localhost:4200' that redirects to 'localhost:4200/dashboard' to be directed to the Tour of Heroes home page. 
+![image](https://user-images.githubusercontent.com/40038829/142356909-26281b3a-0eeb-44f6-861f-00a993588161.png)
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
